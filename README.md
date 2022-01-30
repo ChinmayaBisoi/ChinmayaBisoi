@@ -3,9 +3,9 @@
 ## I'm a Web Dev Enthusiast , Open Source Contributer, Developer, and Learner!!
 
 
-- 🌱 I’m currently learning REACT, NodeJs 😎
+- 🌱 I’m currently learning ReactJs, NextJs, NodeJs 😎
 - 👯 I’m looking to develop Full Stack Apps and contribute to Open Source.
-- 🥅 2021 Goals: Learn React, ReactNative, GraphQL and contribute more to Open Source projects.
+- 🥅 2022 Goals: Learn React, ReactNative, GraphQL and contribute more to Open Source projects.
 - ⚡ Fun fact: I love coffee and youtube.
 
 
