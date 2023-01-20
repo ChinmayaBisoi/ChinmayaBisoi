@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ReactJs, NextJs, NodeJs 😎
 - 👯 I’m looking to develop Full Stack Apps and contribute to Open Source.
-- 🥅 2022 Goals: Learn React, ReactNative, GraphQL and contribute more to Open Source projects.
+- 🥅 2023 Goals: Learn React, ReactNative, GraphQL and contribute more to Open Source projects.
 - ⚡ Fun fact: I love coffee and youtube.
 
 
