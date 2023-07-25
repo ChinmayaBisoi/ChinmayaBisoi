@@ -42,4 +42,4 @@
 -->
 <br />
 
-[twitter]: https://twitter.com/ChinmayaBisoi2
+[twitter]: https://twitter.com/C_bi__
