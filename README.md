@@ -1,22 +1,20 @@
-### Hi there, I'm Chinmaya 👋
+# Hi, I'm Chinmaya Bisoi 👋  
 
-## I'm a Web Dev Enthusiast , Open Source Contributer, Developer, and Learner!!
+### 🚀 Fullstack Engineer | React • Next.js • AWS • Performance • Testing • AI SDK  
+
+Fullstack developer with 3+ years of experience building scalable, production applications across SaaS, healthcare, and cloud security domains.
+
+Currently building high-performance systems at **EasySLR**.
 
 
-- 🌱 I’m currently learning ReactJs, NextJs, NodeJs 😎
+- 🌱 I’m currently learning React Native, and reading Oreilly's AI Engineer book
 - 👯 I’m looking to develop Full Stack Apps and contribute to Open Source.
-- 🥅 2023 Goals: Learn React, ReactNative, GraphQL and contribute more to Open Source projects.
 - ⚡ Fun fact: I love coffee and youtube.
 
-
+<!-- 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-
-
-
-<!--
 [<img align="left" alt="codeSTACKr | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -25,21 +23,30 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+#### Frontend - Next.js • React • TypeScript • Vite • Webpack • Tailwind • Zustand • Redux • Tanstack Query • tRPC
+
+#### Backend - Node.js • Express • PostgreSQL • MongoDB • Redis • REST APIs
+
+#### Cloud & Infra - AWS (Lambda, CloudWatch) • Firebase • GCP • Serverless Architecture
+
+#### Testing & Observability - Playwright • Vitest • Sentry • Performance Profiling
+
+#### AI & Others - OpenAI • AI SDK • Web Workers • AI-driven document workflows
 
 <!--
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 -->
 <br />
 
-[twitter]: https://twitter.com/C_bi__
+
+## 🌍 Connect With Me
+
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) https://github.com/ChinmayaBisoi
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white) https://www.linkedin.com/in/chinmaya-bisoi/
+- ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) bisoi.chinmaya.1999@gmail.com
+- ![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white) https://your-website-link.com
+
+
+---
+
+> “Build systems that scale. Write code that lasts.”
