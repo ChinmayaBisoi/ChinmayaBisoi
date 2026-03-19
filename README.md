@@ -2,7 +2,7 @@
 
 ### 🚀 Fullstack Engineer | React • Next.js • AWS • Performance • Testing • AI SDK  
 
-Fullstack developer with 3+ years of experience building scalable, production applications across SaaS, healthcare, and cloud security domains.
+Fullstack developer with 3.5+ years of experience building scalable, production applications across SaaS, healthcare, and cloud security domains.
 
 Currently building high-performance systems at **EasySLR**.
 
